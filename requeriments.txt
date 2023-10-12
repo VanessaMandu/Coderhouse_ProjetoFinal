@@ -1,0 +1,4 @@
+plyer
+pandas
+requests
+datetime
